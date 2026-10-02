@@ -1,4 +1,4 @@
-# Optimized-Bushy-Leaves
+# Optimized Bushy Leaves
 <p align="center">
   <a href="https://modrinth.com/resourcepack/fancyfast-bushy-leaves"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png" alt="Modrinth" height="64"></a>
   <a href="https://www.curseforge.com/minecraft/texture-packs/fancyfast-bushy-leaves"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_64h.png" alt="CurseForge" height="64"></a>
