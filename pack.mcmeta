@@ -1,0 +1,27 @@
+{
+    "pack": 
+    {
+    	"description":
+        [
+            {"text":"for better performance","color":"#cca3ff"},
+            {"text":"\n♡ ʙ1ᴜʙᴇʀʀɪ ♡","color":"#ffffff"}  
+        ],
+        "pack_format": 97, "note":"main support version",
+        "min_format": [34], "note":"1.21",
+    	"max_format": [1000], "note":"future version",
+    	"supported_formats": [34, 1000], "note":"old format syntax (for older versions of MC)"
+    },
+
+    "overlays":
+    {
+        "entries":
+        [
+            {
+                "directory": "patch-1-21",
+                "formats": [34, 75],
+                "min_format": [34],
+                "max_format": [75]
+            }
+        ]
+    }
+}
