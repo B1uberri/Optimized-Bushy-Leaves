@@ -1,0 +1,25 @@
+{
+  "multipart": [
+    {
+      "apply": [
+        {
+          "model": "biomesoplenty:block/flowering_oak_leaves"
+        },
+        {
+          "model": "biomesoplenty:block/flowering_oak_leaves2"
+        },
+        {
+          "model": "biomesoplenty:block/flowering_oak_leaves3"
+        },
+        {
+          "model": "biomesoplenty:block/flowering_oak_leaves4"
+        }
+      ]
+    },
+    {
+      "apply": {
+        "model": "biomesoplenty:block/flowering_oak_leaves_overlay"
+      }
+    }
+  ]
+}

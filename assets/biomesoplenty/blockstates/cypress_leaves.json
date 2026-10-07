@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomesoplenty:block/cypress_leaves"},
+      {"model": "biomesoplenty:block/cypress_leaves2"},
+      {"model": "biomesoplenty:block/cypress_leaves3"},
+      {"model": "biomesoplenty:block/cypress_leaves4"}
+    ]
+  }
+}
+

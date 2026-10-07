@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/base_leaves_notint3",
+  "textures": {
+    "all": "block/azalea_leaves",
+    "bush": "block/azalea_leaves_bush",
+    "particle": "block/azalea_leaves"
+  }
+}

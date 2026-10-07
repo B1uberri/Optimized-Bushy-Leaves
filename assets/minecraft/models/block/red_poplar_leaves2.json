@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/base_leaves_notint2",
+  "textures": {
+    "all": "block/red_poplar_leaves",
+    "bush": "block/red_poplar_leaves_bush",
+    "particle": "block/red_poplar_leaves"
+  }
+}

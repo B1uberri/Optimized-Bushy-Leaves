@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "minecraft:block/mangrove_leaves"},
+      {"model": "minecraft:block/mangrove_leaves2"},
+      {"model": "minecraft:block/mangrove_leaves3"},
+      {"model": "minecraft:block/mangrove_leaves4"}
+    ]
+  }
+}

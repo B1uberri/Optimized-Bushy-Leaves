@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/base_leaves",
+  "textures": {
+    "all": "biomesoplenty:block/flowering_oak_leaves",
+    "bush": "biomesoplenty:block/flowering_oak_leaves_bush",
+    "particle": "biomesoplenty:block/flowering_oak_leaves"
+  }
+}

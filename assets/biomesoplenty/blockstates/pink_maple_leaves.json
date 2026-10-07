@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomesoplenty:block/pink_maple_leaves"},
+      {"model": "biomesoplenty:block/pink_maple_leaves2"},
+      {"model": "biomesoplenty:block/pink_maple_leaves3"},
+      {"model": "biomesoplenty:block/pink_maple_leaves4"}
+    ]
+  }
+}
+

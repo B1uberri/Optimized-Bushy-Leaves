@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "minecraft:block/flowering_azalea_leaves"},
+      {"model": "minecraft:block/flowering_azalea_leaves2"},
+      {"model": "minecraft:block/flowering_azalea_leaves3"},
+      {"model": "minecraft:block/flowering_azalea_leaves4"}
+    ]
+  }
+}

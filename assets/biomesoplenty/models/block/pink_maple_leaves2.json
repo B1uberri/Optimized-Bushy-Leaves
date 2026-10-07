@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/base_leaves2",
+  "textures": {
+    "all": "biomesoplenty:block/pink_maple_leaves",
+    "bush": "biomesoplenty:block/pink_maple_leaves_bush",
+    "particle": "biomesoplenty:block/pink_maple_leaves"
+  }
+}

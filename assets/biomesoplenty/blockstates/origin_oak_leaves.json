@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomesoplenty:block/origin_oak_leaves"},
+      {"model": "biomesoplenty:block/origin_oak_leaves2"},
+      {"model": "biomesoplenty:block/origin_oak_leaves3"},
+      {"model": "biomesoplenty:block/origin_oak_leaves4"}
+    ]
+  }
+}
+

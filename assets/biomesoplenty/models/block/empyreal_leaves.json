@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/base_leaves2",
+  "textures": {
+    "all": "biomesoplenty:block/empyreal_leaves",
+    "bush": "biomesoplenty:block/empyreal_leaves_bush",
+    "particle": "biomesoplenty:block/empyreal_leaves"
+  }
+}

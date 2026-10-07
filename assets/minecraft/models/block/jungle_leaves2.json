@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/base_leaves2",
+  "textures": {
+    "all": "block/jungle_leaves",
+    "bush": "block/jungle_leaves_bush",
+    "particle": "block/jungle_leaves"
+  }
+}
