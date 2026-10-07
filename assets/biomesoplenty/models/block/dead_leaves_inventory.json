@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/base_leaves_notint",
+	"textures": {
+		"all": "biomesoplenty:block/dead_leaves_inventory",
+		"bush": "biomesoplenty:block/dead_leaves_inventory_bush",
+		"particle": "biomesoplenty:block/dead_leaves_inventory"
+	}
+}

@@ -18,9 +18,9 @@
         [
             {
                 "directory": "patch-1-21",
-                "formats": [34, 75],
+                "formats": [34, 46],
                 "min_format": [34],
-                "max_format": [75]
+                "max_format": [46]
             }
         ]
     }
