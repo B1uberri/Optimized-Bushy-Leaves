@@ -1,8 +1,3 @@
 {
-  "parent": "minecraft:block/base_leaves2",
-  "textures": {
-    "all": "biomesoplenty:block/umbran_leaves",
-    "bush": "biomesoplenty:block/umbran_leaves_bush",
-    "particle": "biomesoplenty:block/umbran_leaves"
-  }
+  "parent": "biomesoplenty:block/umbran_leaves1"
 }

@@ -1,7 +1,7 @@
 {
   "variants": {
     "": [
-      {"model": "biomesoplenty:block/umbran_leaves"},
+      {"model": "biomesoplenty:block/umbran_leaves1"},
       {"model": "biomesoplenty:block/umbran_leaves2"},
       {"model": "biomesoplenty:block/umbran_leaves3"},
       {"model": "biomesoplenty:block/umbran_leaves4"}

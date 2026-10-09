@@ -1,7 +1,7 @@
 {
   "variants": {
     "": [
-      {"model": "minecraft:block/azalea_leaves"},
+      {"model": "minecraft:block/azalea_leaves1"},
       {"model": "minecraft:block/azalea_leaves2"},
       {"model": "minecraft:block/azalea_leaves3"},
       {"model": "minecraft:block/azalea_leaves4"}

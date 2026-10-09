@@ -4,7 +4,7 @@
     "models": [
       {
         "type": "minecraft:model",
-        "model": "biomesoplenty:block/flowering_oak_leaves",
+        "model": "biomesoplenty:block/flowering_oak_leaves1",
         "tints": [
           {
             "type": "minecraft:constant",

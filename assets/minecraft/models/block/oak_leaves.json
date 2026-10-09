@@ -1,8 +1,3 @@
 {
-  "parent": "minecraft:block/base_leaves",
-  "textures": {
-    "all": "block/oak_leaves",
-    "bush": "block/oak_leaves_bush",
-    "particle": "block/oak_leaves"
-  }
+  "parent": "minecraft:block/oak_leaves1"
 }

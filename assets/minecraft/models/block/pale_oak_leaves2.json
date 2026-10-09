@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/base_leaves_notint2",
+  "parent": "-base-leaves-:block/base_bushy_leaves_notint2",
   "textures": {
     "all": "block/pale_oak_leaves",
     "bush": "block/pale_oak_leaves_bush",

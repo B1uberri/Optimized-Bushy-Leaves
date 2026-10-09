@@ -1,7 +1,7 @@
 {
   "variants": {
     "": [
-      {"model": "biomesoplenty:block/hellbark_leaves"},
+      {"model": "biomesoplenty:block/hellbark_leaves1"},
       {"model": "biomesoplenty:block/hellbark_leaves2"},
       {"model": "biomesoplenty:block/hellbark_leaves3"},
       {"model": "biomesoplenty:block/hellbark_leaves4"}

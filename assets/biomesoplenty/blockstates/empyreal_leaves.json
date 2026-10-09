@@ -1,7 +1,7 @@
 {
   "variants": {
     "": [
-      {"model": "biomesoplenty:block/empyreal_leaves"},
+      {"model": "biomesoplenty:block/empyreal_leaves1"},
       {"model": "biomesoplenty:block/empyreal_leaves2"},
       {"model": "biomesoplenty:block/empyreal_leaves3"},
       {"model": "biomesoplenty:block/empyreal_leaves4"}

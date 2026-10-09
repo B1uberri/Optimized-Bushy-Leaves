@@ -1,7 +1,7 @@
 {
   "variants": {
     "": [
-      {"model": "biomesoplenty:block/yellow_maple_leaves"},
+      {"model": "biomesoplenty:block/yellow_maple_leaves1"},
       {"model": "biomesoplenty:block/yellow_maple_leaves2"},
       {"model": "biomesoplenty:block/yellow_maple_leaves3"},
       {"model": "biomesoplenty:block/yellow_maple_leaves4"}

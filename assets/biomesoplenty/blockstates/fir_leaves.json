@@ -1,7 +1,7 @@
 {
   "variants": {
     "": [
-      {"model": "biomesoplenty:block/fir_leaves"},
+      {"model": "biomesoplenty:block/fir_leaves1"},
       {"model": "biomesoplenty:block/fir_leaves2"},
       {"model": "biomesoplenty:block/fir_leaves3"},
       {"model": "biomesoplenty:block/fir_leaves4"}

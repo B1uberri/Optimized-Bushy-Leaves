@@ -1,8 +1,3 @@
 {
-  "parent": "minecraft:block/base_leaves2",
-  "textures": {
-    "all": "biomesoplenty:block/hellbark_leaves",
-    "bush": "biomesoplenty:block/hellbark_leaves_bush",
-    "particle": "biomesoplenty:block/hellbark_leaves"
-  }
+  "parent": "biomesoplenty:block/hellbark_leaves1"
 }

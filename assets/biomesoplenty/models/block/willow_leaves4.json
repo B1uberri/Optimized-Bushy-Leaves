@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/base_leaves",
+  "parent": "-base-leaves-:block/base_bushy_leaves4",
   "textures": {
     "all": "biomesoplenty:block/willow_leaves",
     "bush": "biomesoplenty:block/willow_leaves_bush",

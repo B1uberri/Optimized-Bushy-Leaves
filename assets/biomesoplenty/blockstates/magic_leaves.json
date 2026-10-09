@@ -1,7 +1,7 @@
 {
   "variants": {
     "": [
-      {"model": "biomesoplenty:block/magic_leaves"},
+      {"model": "biomesoplenty:block/magic_leaves1"},
       {"model": "biomesoplenty:block/magic_leaves2"},
       {"model": "biomesoplenty:block/magic_leaves3"},
       {"model": "biomesoplenty:block/magic_leaves4"}

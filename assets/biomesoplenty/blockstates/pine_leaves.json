@@ -3,7 +3,7 @@
     {
       "apply": [
         {
-          "model": "biomesoplenty:block/pine_leaves"
+          "model": "biomesoplenty:block/pine_leaves1"
         },
         {
           "model": "biomesoplenty:block/pine_leaves2"

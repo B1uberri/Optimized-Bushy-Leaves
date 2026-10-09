@@ -1,0 +1,8 @@
+{
+  "parent": "-base-leaves-:block/base_bushy_leaves1",
+  "textures": {
+    "all": "block/mangrove_leaves",
+    "bush": "block/mangrove_leaves_bush",
+    "particle": "block/mangrove_leaves"
+  }
+}

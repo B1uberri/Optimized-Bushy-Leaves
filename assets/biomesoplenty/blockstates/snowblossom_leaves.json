@@ -1,7 +1,7 @@
 {
   "variants": {
     "": [
-      {"model": "biomesoplenty:block/snowblossom_leaves"},
+      {"model": "biomesoplenty:block/snowblossom_leaves1"},
       {"model": "biomesoplenty:block/snowblossom_leaves2"},
       {"model": "biomesoplenty:block/snowblossom_leaves3"},
       {"model": "biomesoplenty:block/snowblossom_leaves4"}

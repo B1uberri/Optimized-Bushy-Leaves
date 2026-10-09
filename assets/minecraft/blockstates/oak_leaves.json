@@ -1,7 +1,7 @@
 {
   "variants": {
     "": [
-      {"model": "minecraft:block/oak_leaves"},
+      {"model": "minecraft:block/oak_leaves1"},
       {"model": "minecraft:block/oak_leaves2"},
       {"model": "minecraft:block/oak_leaves3"},
       {"model": "minecraft:block/oak_leaves4"}

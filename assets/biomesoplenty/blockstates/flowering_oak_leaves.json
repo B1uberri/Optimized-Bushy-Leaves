@@ -3,7 +3,7 @@
     {
       "apply": [
         {
-          "model": "biomesoplenty:block/flowering_oak_leaves"
+          "model": "biomesoplenty:block/flowering_oak_leaves1"
         },
         {
           "model": "biomesoplenty:block/flowering_oak_leaves2"

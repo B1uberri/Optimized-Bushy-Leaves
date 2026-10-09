@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/base_leaves2",
+  "parent": "-base-leaves-:block/base_bushy_leaves2",
   "textures": {
     "all": "block/mangrove_leaves",
     "bush": "block/mangrove_leaves_bush",

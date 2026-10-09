@@ -4,7 +4,7 @@
     "models": [
       {
         "type": "minecraft:model",
-        "model": "biomesoplenty:block/pine_leaves",
+        "model": "biomesoplenty:block/pine_leaves1",
         "tints": [
           {
             "type": "minecraft:constant",
