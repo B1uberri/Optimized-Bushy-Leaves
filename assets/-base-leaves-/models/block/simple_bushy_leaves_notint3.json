@@ -19,16 +19,6 @@
 			}
 		},
 		{
-			"from": [8.60896, 0, -7.74776],
-			"to": [8.60896, 16, 0.25224],
-			"shade_direction_override": "up",
-			"rotation": {"x": 0, "y": -112.5, "z": 0, "origin": [8.60896, 8, 8.25224]},
-			"faces": {
-				"east": {"uv": [0, 0, 16, 8], "rotation": 270, "texture": "#bush", "cullface": "east"},
-				"west": {"uv": [0, 0, 16, 8], "rotation": 90, "texture": "#bush", "cullface": "east"}
-			}
-		},
-		{
 			"from": [8, 16, 0],
 			"to": [8, 24, 16],
 			"shade_direction_override": "up",
@@ -39,23 +29,33 @@
 			}
 		},
 		{
+			"from": [-8, 0, 7.999],
+			"to": [0, 16, 7.999],
+			"shade_direction_override": "up",
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8, 8, 7.999]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "rotation": 270, "texture": "#bush", "cullface": "west"},
+				"south": {"uv": [0, 0, 16, 8], "rotation": 90, "texture": "#bush", "cullface": "west"}
+			}
+		},
+		{
 			"from": [8, -8, 0],
 			"to": [8, 0, 16],
 			"shade_direction_override": "up",
-			"rotation": {"x": 0, "y": -112.5, "z": 0, "origin": [8, 8, 8], "rescale": true},
+			"rotation": {"x": 0, "y": 67.5, "z": 0, "origin": [8, 8, 8], "rescale": true},
 			"faces": {
 				"east": {"uv": [0, 0, 16, 8], "texture": "#bush", "cullface": "down"},
 				"west": {"uv": [0, 0, 16, 8], "texture": "#bush", "cullface": "down"}
 			}
 		},
 		{
-			"from": [7.39104, 0, 15.74776],
-			"to": [7.39104, 16, 23.74776],
+			"from": [16, 0, 7.999],
+			"to": [24, 16, 7.999],
 			"shade_direction_override": "up",
-			"rotation": {"x": 0, "y": -112.5, "z": 0, "origin": [7.39104, 8, 7.74776]},
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8, 8, 7.999]},
 			"faces": {
-				"east": {"uv": [0, 0, 16, 8], "rotation": 90, "texture": "#bush", "cullface": "west"},
-				"west": {"uv": [0, 0, 16, 8], "rotation": 270, "texture": "#bush", "cullface": "west"}
+				"north": {"uv": [0, 0, 16, 8], "rotation": 90, "texture": "#bush", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 8], "rotation": 270, "texture": "#bush", "cullface": "east"}
 			}
 		}
 	]
