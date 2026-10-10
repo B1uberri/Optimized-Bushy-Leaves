@@ -1,4 +1,4 @@
-![Title](https://cdn.modrinth.com/data/cached_images/f6c750a1429217a5d2f19f21dcaf27619a2b5994.png)
+![Optimized Bushy Leaves - for better performance](https://cdn.modrinth.com/data/cached_images/c78458a9bf1d0d9befa52278e25f9574b27581e9.png)
 
 ![Screenshot](https://cdn.modrinth.com/data/pQHHONnS/images/ce5643818eed546057717fc6ab9be1f59f2c70a8.jpeg)
 
