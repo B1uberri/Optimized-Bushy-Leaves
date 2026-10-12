@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      {"model": "terrestria:block/dark_japanese_maple_leaves1"},
+      {"model": "terrestria:block/dark_japanese_maple_leaves2"},
+      {"model": "terrestria:block/dark_japanese_maple_leaves3"},
+      {"model": "terrestria:block/dark_japanese_maple_leaves4"}
+    ]
+  }
+}
+

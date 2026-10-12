@@ -1,0 +1,9 @@
+{
+  "parent": "-base-leaves-:block/base_bushy_leaves4",
+  "textures": {
+    "top": "terrestria:block/willow_leaves_top",
+    "all": "terrestria:block/willow_leaves",
+    "bush": "terrestria:block/willow_leaves_bush",
+    "particle": "terrestria:block/willow_leaves"
+  }
+}

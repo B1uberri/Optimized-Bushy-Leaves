@@ -1,0 +1,8 @@
+{
+  "parent": "-base-leaves-:block/base_bushy_leaves1",
+  "textures": {
+    "all": "terrestria:block/hemlock_leaves",
+    "bush": "terrestria:block/hemlock_leaves_bush",
+    "particle": "terrestria:block/hemlock_leaves"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      {"model": "terrestria:block/rainbow_eucalyptus_leaves1"},
+      {"model": "terrestria:block/rainbow_eucalyptus_leaves2"},
+      {"model": "terrestria:block/rainbow_eucalyptus_leaves3"},
+      {"model": "terrestria:block/rainbow_eucalyptus_leaves4"}
+    ]
+  }
+}
+

@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      {"model": "terrestria:block/yucca_palm_leaves1"},
+      {"model": "terrestria:block/yucca_palm_leaves2"},
+      {"model": "terrestria:block/yucca_palm_leaves3"},
+      {"model": "terrestria:block/yucca_palm_leaves4"}
+    ]
+  }
+}
+

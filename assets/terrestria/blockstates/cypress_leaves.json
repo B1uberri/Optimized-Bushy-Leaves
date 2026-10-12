@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      {"model": "terrestria:block/cypress_leaves1"},
+      {"model": "terrestria:block/cypress_leaves2"},
+      {"model": "terrestria:block/cypress_leaves3"},
+      {"model": "terrestria:block/cypress_leaves4"}
+    ]
+  }
+}
+

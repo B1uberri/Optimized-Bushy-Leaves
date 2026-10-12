@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      {"model": "terrestria:block/redwood_leaves1"},
+      {"model": "terrestria:block/redwood_leaves2"},
+      {"model": "terrestria:block/redwood_leaves3"},
+      {"model": "terrestria:block/redwood_leaves4"}
+    ]
+  }
+}
+
