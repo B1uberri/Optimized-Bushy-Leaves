@@ -1,5 +1,5 @@
 {
-  "parent": "-base-leaves-:block/base_bushy_leaves3",
+  "parent": "bushyleaves:block/base_bushy_leaves3",
   "textures": {
     "all": "terrestria:block/rainbow_eucalyptus_leaves",
     "bush": "terrestria:block/rainbow_eucalyptus_leaves_bush",

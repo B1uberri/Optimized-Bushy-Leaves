@@ -1,5 +1,5 @@
 {
-  "parent": "-base-leaves-:block/base_bushy_leaves4",
+  "parent": "bushyleaves:block/base_bushy_leaves4",
   "textures": {
     "all": "terrestria:block/japanese_maple_shrub_leaves",
     "bush": "terrestria:block/japanese_maple_shrub_leaves_bush",

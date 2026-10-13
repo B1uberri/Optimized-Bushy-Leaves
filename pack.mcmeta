@@ -17,7 +17,7 @@
         "entries":
         [
             {
-                "directory": "patch_1-21_to_1-21-4",
+                "directory": "patch34-46",
                 "formats": [34, 46],
                 "min_format": [34],
                 "max_format": [46]

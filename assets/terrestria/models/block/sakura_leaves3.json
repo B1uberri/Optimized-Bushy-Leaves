@@ -1,5 +1,5 @@
 {
-  "parent": "-base-leaves-:block/base_bushy_leaves_notint3",
+  "parent": "bushyleaves:block/base_bushy_leaves_notint3",
   "textures": {
     "all": "terrestria:block/sakura_leaves",
     "bush": "terrestria:block/sakura_leaves_bush",

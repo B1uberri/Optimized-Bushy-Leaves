@@ -1,5 +1,5 @@
 {
-  "parent": "-base-leaves-:block/base_bushy_leaves3",
+  "parent": "bushyleaves:block/base_bushy_leaves3",
   "textures": {
     "all": "block/mangrove_leaves",
     "bush": "block/mangrove_leaves_bush",
