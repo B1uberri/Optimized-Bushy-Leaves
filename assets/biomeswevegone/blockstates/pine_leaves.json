@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomeswevegone:block/pine_leaves1"},
+      {"model": "biomeswevegone:block/pine_leaves2"},
+      {"model": "biomeswevegone:block/pine_leaves3"},
+      {"model": "biomeswevegone:block/pine_leaves4"}
+    ]
+  }
+}

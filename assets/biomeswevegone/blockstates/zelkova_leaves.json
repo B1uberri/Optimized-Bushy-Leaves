@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomeswevegone:block/zelkova_leaves1"},
+      {"model": "biomeswevegone:block/zelkova_leaves2"},
+      {"model": "biomeswevegone:block/zelkova_leaves3"},
+      {"model": "biomeswevegone:block/zelkova_leaves4"}
+    ]
+  }
+}

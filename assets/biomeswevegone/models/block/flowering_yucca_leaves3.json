@@ -1,0 +1,9 @@
+{
+  "parent": "bushyleaves:block/biomeswevegone/yucca_leaves3",
+  "textures": {
+    "all": "biomeswevegone:block/flowering_yucca_leaves",
+    "bush": "biomeswevegone:block/flowering_yucca_leaves_overlay_bush",
+    "particle": "biomeswevegone:block/flowering_yucca_leaves",
+    "overlay": "biomeswevegone:block/flowering_yucca_leaves_overlay"
+  }
+}

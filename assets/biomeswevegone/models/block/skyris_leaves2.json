@@ -1,0 +1,8 @@
+{
+  "parent": "bushyleaves:block/base_bushy_leaves_notint2",
+  "textures": {
+    "all": "biomeswevegone:block/skyris/leaves",
+    "bush": "biomeswevegone:block/skyris/leaves_bush",
+    "particle": "biomeswevegone:block/skyris/leaves"
+  }
+}

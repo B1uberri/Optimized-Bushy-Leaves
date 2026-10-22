@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomeswevegone:block/flowering_palo_verde_leaves1"},
+      {"model": "biomeswevegone:block/flowering_palo_verde_leaves2"},
+      {"model": "biomeswevegone:block/flowering_palo_verde_leaves3"},
+      {"model": "biomeswevegone:block/flowering_palo_verde_leaves4"}
+    ]
+  }
+}

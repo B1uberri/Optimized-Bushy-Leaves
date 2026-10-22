@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomeswevegone:block/yucca_leaves1"},
+      {"model": "biomeswevegone:block/yucca_leaves2"},
+      {"model": "biomeswevegone:block/yucca_leaves3"},
+      {"model": "biomeswevegone:block/yucca_leaves4"}
+    ]
+  }
+}

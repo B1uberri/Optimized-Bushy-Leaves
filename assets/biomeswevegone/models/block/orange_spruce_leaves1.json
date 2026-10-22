@@ -1,0 +1,8 @@
+{
+  "parent": "bushyleaves:block/base_bushy_leaves_notint1",
+  "textures": {
+    "all": "biomeswevegone:block/orange_spruce_leaves",
+    "bush": "biomeswevegone:block/orange_spruce_leaves_bush",
+    "particle": "biomeswevegone:block/orange_spruce_leaves"
+  }
+}

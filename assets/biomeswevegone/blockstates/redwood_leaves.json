@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomeswevegone:block/redwood_leaves1"},
+      {"model": "biomeswevegone:block/redwood_leaves2"},
+      {"model": "biomeswevegone:block/redwood_leaves3"},
+      {"model": "biomeswevegone:block/redwood_leaves4"}
+    ]
+  }
+}

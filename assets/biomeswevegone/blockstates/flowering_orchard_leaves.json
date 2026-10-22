@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomeswevegone:block/flowering_orchard_leaves1"},
+      {"model": "biomeswevegone:block/flowering_orchard_leaves2"},
+      {"model": "biomeswevegone:block/flowering_orchard_leaves3"},
+      {"model": "biomeswevegone:block/flowering_orchard_leaves4"}
+    ]
+  }
+}

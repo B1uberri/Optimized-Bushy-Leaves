@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomeswevegone:block/rainbow_eucalyptus_leaves1"},
+      {"model": "biomeswevegone:block/rainbow_eucalyptus_leaves2"},
+      {"model": "biomeswevegone:block/rainbow_eucalyptus_leaves3"},
+      {"model": "biomeswevegone:block/rainbow_eucalyptus_leaves4"}
+    ]
+  }
+}

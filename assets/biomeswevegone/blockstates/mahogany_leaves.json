@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomeswevegone:block/mahogany_leaves1"},
+      {"model": "biomeswevegone:block/mahogany_leaves2"},
+      {"model": "biomeswevegone:block/mahogany_leaves3"},
+      {"model": "biomeswevegone:block/mahogany_leaves4"}
+    ]
+  }
+}

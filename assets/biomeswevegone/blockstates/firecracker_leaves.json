@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomeswevegone:block/firecracker_leaves1"},
+      {"model": "biomeswevegone:block/firecracker_leaves2"},
+      {"model": "biomeswevegone:block/firecracker_leaves3"},
+      {"model": "biomeswevegone:block/firecracker_leaves4"}
+    ]
+  }
+}

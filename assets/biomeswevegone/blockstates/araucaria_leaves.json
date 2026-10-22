@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomeswevegone:block/araucaria_leaves1"},
+      {"model": "biomeswevegone:block/araucaria_leaves2"},
+      {"model": "biomeswevegone:block/araucaria_leaves3"},
+      {"model": "biomeswevegone:block/araucaria_leaves4"}
+    ]
+  }
+}

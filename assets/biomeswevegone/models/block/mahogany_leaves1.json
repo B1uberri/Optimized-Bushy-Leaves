@@ -1,0 +1,8 @@
+{
+  "parent": "bushyleaves:block/base_bushy_leaves1",
+  "textures": {
+    "all": "biomeswevegone:block/mahogany/leaves",
+    "bush": "biomeswevegone:block/mahogany/leaves_bush",
+    "particle": "biomeswevegone:block/mahogany/leaves"
+  }
+}

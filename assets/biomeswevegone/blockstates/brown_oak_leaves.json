@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomeswevegone:block/brown_oak_leaves1"},
+      {"model": "biomeswevegone:block/brown_oak_leaves2"},
+      {"model": "biomeswevegone:block/brown_oak_leaves3"},
+      {"model": "biomeswevegone:block/brown_oak_leaves4"}
+    ]
+  }
+}

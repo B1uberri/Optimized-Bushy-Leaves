@@ -1,0 +1,8 @@
+{
+  "parent": "bushyleaves:block/base_bushy_leaves_notint2",
+  "textures": {
+    "all": "biomeswevegone:block/blooming_witch_hazel_leaves",
+    "bush": "biomeswevegone:block/blooming_witch_hazel_leaves_bush",
+    "particle": "biomeswevegone:block/blooming_witch_hazel_leaves"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomeswevegone:block/flowering_indigo_jacaranda_leaves1"},
+      {"model": "biomeswevegone:block/flowering_indigo_jacaranda_leaves2"},
+      {"model": "biomeswevegone:block/flowering_indigo_jacaranda_leaves3"},
+      {"model": "biomeswevegone:block/flowering_indigo_jacaranda_leaves4"}
+    ]
+  }
+}

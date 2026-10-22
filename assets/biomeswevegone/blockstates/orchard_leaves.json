@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomeswevegone:block/orchard_leaves1"},
+      {"model": "biomeswevegone:block/orchard_leaves2"},
+      {"model": "biomeswevegone:block/orchard_leaves3"},
+      {"model": "biomeswevegone:block/orchard_leaves4"}
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomeswevegone:block/blue_enchanted_leaves1"},
+      {"model": "biomeswevegone:block/blue_enchanted_leaves2"},
+      {"model": "biomeswevegone:block/blue_enchanted_leaves3"},
+      {"model": "biomeswevegone:block/blue_enchanted_leaves4"}
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomeswevegone:block/ironwood_leaves1"},
+      {"model": "biomeswevegone:block/ironwood_leaves2"},
+      {"model": "biomeswevegone:block/ironwood_leaves3"},
+      {"model": "biomeswevegone:block/ironwood_leaves4"}
+    ]
+  }
+}

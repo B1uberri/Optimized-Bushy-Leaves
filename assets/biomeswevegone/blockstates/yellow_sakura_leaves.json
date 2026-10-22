@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomeswevegone:block/yellow_sakura_leaves1"},
+      {"model": "biomeswevegone:block/yellow_sakura_leaves2"},
+      {"model": "biomeswevegone:block/yellow_sakura_leaves3"},
+      {"model": "biomeswevegone:block/yellow_sakura_leaves4"}
+    ]
+  }
+}

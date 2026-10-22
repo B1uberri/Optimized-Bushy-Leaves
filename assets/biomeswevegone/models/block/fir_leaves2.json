@@ -1,0 +1,8 @@
+{
+  "parent": "bushyleaves:block/base_bushy_leaves_notint2",
+  "textures": {
+    "all": "biomeswevegone:block/fir/leaves",
+    "bush": "biomeswevegone:block/fir/leaves_bush",
+    "particle": "biomeswevegone:block/fir/leaves"
+  }
+}

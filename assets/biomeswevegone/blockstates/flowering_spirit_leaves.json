@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomeswevegone:block/flowering_spirit_leaves1"},
+      {"model": "biomeswevegone:block/flowering_spirit_leaves2"},
+      {"model": "biomeswevegone:block/flowering_spirit_leaves3"},
+      {"model": "biomeswevegone:block/flowering_spirit_leaves4"}
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomeswevegone:block/white_mangrove_leaves1"},
+      {"model": "biomeswevegone:block/white_mangrove_leaves2"},
+      {"model": "biomeswevegone:block/white_mangrove_leaves3"},
+      {"model": "biomeswevegone:block/white_mangrove_leaves4"}
+    ]
+  }
+}

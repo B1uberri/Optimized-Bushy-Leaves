@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomeswevegone:block/ripe_baobab_leaves1"},
+      {"model": "biomeswevegone:block/ripe_baobab_leaves2"},
+      {"model": "biomeswevegone:block/ripe_baobab_leaves3"},
+      {"model": "biomeswevegone:block/ripe_baobab_leaves4"}
+    ]
+  }
+}

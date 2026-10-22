@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "biomeswevegone:block/brown_birch_leaves1"},
+      {"model": "biomeswevegone:block/brown_birch_leaves2"},
+      {"model": "biomeswevegone:block/brown_birch_leaves3"},
+      {"model": "biomeswevegone:block/brown_birch_leaves4"}
+    ]
+  }
+}
