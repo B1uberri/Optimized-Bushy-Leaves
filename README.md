@@ -35,7 +35,7 @@ This resource pack does not add any internal geometry inside leaf blocks and als
 
 <h2>
 <div align="center">
-  <img src="https://cdn.modrinth.com/data/cached_images/09b2de51e8f248ddeee791841853c1702c6a9123.png" alt="Performance comparison" height="40">
+<img src="https://cdn.modrinth.com/data/cached_images/09b2de51e8f248ddeee791841853c1702c6a9123.png" alt="Performance comparison" height="40">
 </div>
 </h2>
 
@@ -49,8 +49,23 @@ This resource pack does not add any internal geometry inside leaf blocks and als
 
 <h2>
 <div align="center">
-  <img src="https://cdn.modrinth.com/data/cached_images/c74869cda8ea15be95a14f10e2562414d6ffbf65.png" alt="Performance comparison" height="40">
+  <img src="https://cdn.modrinth.com/data/cached_images/fc7376fa37b0da9cc8a8b8ad9ecdaabf6dbde639.png" alt="Mod compatibility" height="40">
+</div>
+</h2>
+
+<details>
+<summary>Show supported mods</summary>
+
+- Biomes O’ Plenty
+- Terrestria
+
+</details>
+
+<h2>
+<div align="center">
+  <img src="https://cdn.modrinth.com/data/cached_images/c74869cda8ea15be95a14f10e2562414d6ffbf65.png" alt="Credits" height="40">
 </div>
 </h2>
 
   - A few textures by <a href="https://x.com/PollieboyGames">**Pollie**</a>, downloaded from <a href="https://vanillatweaks.net">**Vanilla Tweaks**</a>
+
