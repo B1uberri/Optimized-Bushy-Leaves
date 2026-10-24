@@ -59,6 +59,7 @@ This resource pack does not add any internal geometry inside leaf blocks and als
 - Biomes O’ Plenty
 - Terrestria
 - Oh The Biomes We've Gone
+- Wilder Wild
 
 </details>
 
