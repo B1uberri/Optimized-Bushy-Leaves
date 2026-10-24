@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      {"model": "wilderwild:block/red_maple_leaves1"},
+      {"model": "wilderwild:block/red_maple_leaves2"},
+      {"model": "wilderwild:block/red_maple_leaves3"},
+      {"model": "wilderwild:block/red_maple_leaves4"}
+    ]
+  }
+}
+

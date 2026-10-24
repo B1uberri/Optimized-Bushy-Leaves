@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      {"model": "wilderwild:block/cypress_leaves1"},
+      {"model": "wilderwild:block/cypress_leaves2"},
+      {"model": "wilderwild:block/cypress_leaves3"},
+      {"model": "wilderwild:block/cypress_leaves4"}
+    ]
+  }
+}
+

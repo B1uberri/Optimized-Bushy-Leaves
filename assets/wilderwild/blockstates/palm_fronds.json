@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      {"model": "wilderwild:block/palm_fronds1"},
+      {"model": "wilderwild:block/palm_fronds2"},
+      {"model": "wilderwild:block/palm_fronds3"},
+      {"model": "wilderwild:block/palm_fronds4"}
+    ]
+  }
+}
+

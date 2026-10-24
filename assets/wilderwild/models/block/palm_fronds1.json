@@ -1,0 +1,8 @@
+{
+  "parent": "bushyleaves:block/base_bushy_leaves1",
+  "textures": {
+    "all": "wilderwild:block/palm_fronds",
+    "bush": "wilderwild:block/palm_fronds_bush",
+    "particle": "wilderwild:block/palm_fronds"
+  }
+}

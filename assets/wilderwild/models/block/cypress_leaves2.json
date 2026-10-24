@@ -1,0 +1,8 @@
+{
+  "parent": "bushyleaves:block/base_bushy_leaves2",
+  "textures": {
+    "all": "wilderwild:block/cypress_leaves",
+    "bush": "wilderwild:block/cypress_leaves_bush",
+    "particle": "wilderwild:block/cypress_leaves"
+  }
+}
