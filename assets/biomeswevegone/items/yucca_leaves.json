@@ -7,11 +7,6 @@
         "type": "biomeswevegone:foliage",
         "downfall": 1.0,
         "temperature": 0.5
-      },
-      {
-        "type": "biomeswevegone:foliage",
-        "downfall": 1.0,
-        "temperature": 0.5
       }
     ]
   }

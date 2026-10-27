@@ -1,0 +1,6 @@
+{
+  "parent": "bushyleaves:block/base_overlay",
+  "textures": {
+    "overlay": "biomeswevegone:block/flowering_yucca_leaves_overlay"
+  }
+}
